@@ -1,8 +1,8 @@
 # Package a Python Script into a Command-Line Tool
 
-# User Guide for Rust-ETL-Demo
+## User Guide for Rust-ETL-Demo
 
-## Installation
+### Installation
 
 Before you can use this package, you need to have Rust installed on your machine. If you haven't installed Rust yet, you can do so by following the instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
 
@@ -25,7 +25,7 @@ Then, run the following command in your terminal to download and compile the pac
 cargo build
 ```
 
-## Usage
+### Usage
 
 Here's a basic example of how to use this package:
 
